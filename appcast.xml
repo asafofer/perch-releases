@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Perch</title>
+        <item>
+            <title>0.3.1</title>
+            <pubDate>Sun, 11 Oct 2026 16:50:11 +0300</pubDate>
+            <sparkle:version>330</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Update Perch from the notch
+
+- Perch updates itself: a ring beside the camera while it downloads, then a small row that says Updated
+- Check for updates in the menu bar, with Update, Later and What is new
+- Record your own shortcut to open Perch
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.1/Perch-0.3.1.zip" length="2856241" type="application/octet-stream" sparkle:edSignature="CJFukYaTMO6XBGbVKSO4Co0c9Bor0wwRD64vCbN+FOUhJOj17gHCYnekbOkNPEw3/AyFuMrn+jXrteFTdu59Dw=="/>
+        </item>
+    </channel>
+</rss>
