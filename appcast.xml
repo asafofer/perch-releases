@@ -3,6 +3,24 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.3.9</title>
+            <pubDate>Sun, 11 Oct 2026 21:00:52 +0300</pubDate>
+            <sparkle:version>434</sparkle:version>
+            <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Choose which screen Perch opens on
+
+- Show Perch on in Settings: the screen with the mouse, the screen with the active window, or one display by name
+- A chosen display that is unplugged stays in the menu, greyed, and Perch follows the mouse until it is back
+- Hover opens on external displays now lives in the Show Perch on menu
+- On a display without a notch, the card and the live activity close by shrinking to nothing at the top centre
+- A failed update says why and what to do (move Perch to Applications, check your connection), and a Mac that cannot run the newest version is told so
+- Settings has more room between its rows
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.9/Perch-0.3.9.zip" length="2910898" type="application/octet-stream" sparkle:edSignature="fQ6UaSz9J5k1BWSmWGb+2OYBo8OvE6qSoxdH2nhPI7Zwv7AcH3wY6Ojq5dJ+S7tMLtmcXmD2hR6EEAbko2/xCg=="/>
+        </item>
+        <item>
             <title>0.3.8</title>
             <pubDate>Sun, 11 Oct 2026 20:07:09 +0300</pubDate>
             <sparkle:version>395</sparkle:version>
@@ -33,22 +51,6 @@
 - Settings: "Away from your Mac for" is now "Welcome back after"
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.7/Perch-0.3.7.zip" length="2872254" type="application/octet-stream" sparkle:edSignature="PRhukMLinsPHBTpczo+bCHR2fvtnoG6rhD5k3M1cfsqEZlog+owT4giF7bc0K6Kw53NSgALnXNv8BQP1T9xgBA=="/>
-        </item>
-        <item>
-            <title>0.3.6</title>
-            <pubDate>Sun, 11 Oct 2026 17:58:51 +0300</pubDate>
-            <sparkle:version>362</sparkle:version>
-            <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Choose what the notch tells you
-
-- Notify me about in Settings: switch off Finished, Needs your OK, Asked you something, Has a plan or Stopped on an error
-- Switching one off only quiets the notch: the list, the cards and the status rings still show everything
-- Each setting has a small icon, so the rows are easier to tell apart
-- A new release is offered at once, with no wait
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.6/Perch-0.3.6.zip" length="2870588" type="application/octet-stream" sparkle:edSignature="0rKxVQMZPG/hTRJNomUf6k4xzuZP5rsO3XfLEdEcZ+e//QuHr6TfQ5xbnXO32dvoVQpmCIzveWBCbkkptNHPCw=="/>
         </item>
     </channel>
 </rss>
