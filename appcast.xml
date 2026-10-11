@@ -3,6 +3,21 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.3.8</title>
+            <pubDate>Sun, 11 Oct 2026 20:07:09 +0300</pubDate>
+            <sparkle:version>395</sparkle:version>
+            <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Your last message in a reply
+
+- Replying shows your own last message as a bubble above the agent's, a scroll up from where the message opens
+- The shortcut recorder is steadier: keys stay shown until all are up, a chosen shortcut shows as saved, and Done goes back to Settings
+- The first open no longer freezes for a second while Perch checks whether a launcher has the keyboard
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.8/Perch-0.3.8.zip" length="2877655" type="application/octet-stream" sparkle:edSignature="q92onZN1rlVQIcJFPmoVyf1qMB47rX8p2T7IaI8VpYw9Zc9Td8rgJZTeazzF+XruMyuDrxJ32mRqfWsLvarzCA=="/>
+        </item>
+        <item>
             <title>0.3.7</title>
             <pubDate>Sun, 11 Oct 2026 19:07:43 +0300</pubDate>
             <sparkle:version>380</sparkle:version>
@@ -34,19 +49,6 @@
 - A new release is offered at once, with no wait
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.6/Perch-0.3.6.zip" length="2870588" type="application/octet-stream" sparkle:edSignature="0rKxVQMZPG/hTRJNomUf6k4xzuZP5rsO3XfLEdEcZ+e//QuHr6TfQ5xbnXO32dvoVQpmCIzveWBCbkkptNHPCw=="/>
-        </item>
-        <item>
-            <title>0.3.5</title>
-            <pubDate>Sun, 11 Oct 2026 17:33:05 +0300</pubDate>
-            <sparkle:version>347</sparkle:version>
-            <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Settings lines up
-
-- Change, Allow and Check for updates now end on the same edge as the switches
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.5/Perch-0.3.5.zip" length="2862299" type="application/octet-stream" sparkle:edSignature="GjrhiY2Y9GVn21o7wiRI8DfeB23kf+EbwtKj3+OWCmHs8TbByF6hjHCmMn9WPOKohxBaWCcZHjriIsp86UgSDw=="/>
         </item>
     </channel>
 </rss>
