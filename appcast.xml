@@ -3,6 +3,26 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.3.2</title>
+            <pubDate>Sun, 11 Oct 2026 16:52:02 +0300</pubDate>
+            <sparkle:version>332</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[A test update to try the update flow
+
+- Nothing changed in Perch: this release only exists to check that updating works
+- The notch downloads it with a ring beside the camera, then restarts and says Updated
+- What's new scrolls when the list is long, and a long line like this one wraps instead of being cut off at the edge of the notch
+- Line four of the test list
+- Line five of the test list
+- Line six of the test list
+- Line seven of the test list: scroll down to see it
+- Line eight of the test list: and this is the last one
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.2/Perch-0.3.2.zip" length="2856233" type="application/octet-stream" sparkle:edSignature="E5udlYfolMyu+t9aP4o2hO80CvLCq/nANkUY+5dJEQ0zu19EVO1EM+uwqKTKdw/Dn+XES7QJvDGcR59ukeF9Ag=="/>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Sun, 11 Oct 2026 16:50:11 +0300</pubDate>
             <sparkle:version>330</sparkle:version>
