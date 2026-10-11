@@ -3,6 +3,22 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.3.6</title>
+            <pubDate>Sun, 11 Oct 2026 17:58:51 +0300</pubDate>
+            <sparkle:version>362</sparkle:version>
+            <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Choose what the notch tells you
+
+- Notify me about in Settings: switch off Finished, Needs your OK, Asked you something, Has a plan or Stopped on an error
+- Switching one off only quiets the notch: the list, the cards and the status rings still show everything
+- Each setting has a small icon, so the rows are easier to tell apart
+- A new release is offered at once, with no wait
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.6/Perch-0.3.6.zip" length="2870588" type="application/octet-stream" sparkle:edSignature="0rKxVQMZPG/hTRJNomUf6k4xzuZP5rsO3XfLEdEcZ+e//QuHr6TfQ5xbnXO32dvoVQpmCIzveWBCbkkptNHPCw=="/>
+        </item>
+        <item>
             <title>0.3.5</title>
             <pubDate>Sun, 11 Oct 2026 17:33:05 +0300</pubDate>
             <sparkle:version>347</sparkle:version>
@@ -28,23 +44,6 @@
 - A downloaded update restarts right away when nothing is open, with no pause in between
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.4/Perch-0.3.4.zip" length="2862264" type="application/octet-stream" sparkle:edSignature="nqhlQ+t8PmoDvNZkKlbINn76na6SeInJN3BHvFL/2rPcT//IfGSUvVpZHTmTPAOZrEEg9kdXnfgT0kxmZzViDA=="/>
-        </item>
-        <item>
-            <title>0.3.3</title>
-            <pubDate>Sun, 11 Oct 2026 17:19:14 +0300</pubDate>
-            <sparkle:version>339</sparkle:version>
-            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[A friendlier way to update
-
-- Settings has an Updates row: check for updates and see where it stands
-- A new version shows as Update at the top left of the list and cards, clear of the notch
-- Check for updates now answers even when an update is already on its way
-- On an external display the notch tucks away instead of fading
-- Smoother spinners and more room between the rows in Settings
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.3/Perch-0.3.3.zip" length="2861943" type="application/octet-stream" sparkle:edSignature="XYqY0YolOf7BCzNfd38W7vPPx2VPYESSCVvQXlz0Wy+iQaraQTwtTCXgNHy9c9rb/PvnU33dsaBuurK01D87Ag=="/>
         </item>
     </channel>
 </rss>
