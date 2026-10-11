@@ -3,6 +3,23 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.3.7</title>
+            <pubDate>Sun, 11 Oct 2026 19:07:43 +0300</pubDate>
+            <sparkle:version>380</sparkle:version>
+            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Smoother lists, and questions in full
+
+- A question in the notch is shown in full, and hovering a choice shows its title, its note and whether it is recommended
+- Hovering a session in the list selects it, with a hand cursor, and the highlight follows the pointer smoothly without scrolling by itself
+- The arrow keys no longer jump back to where the mouse rests, in Settings and in the list
+- Command+comma closes Settings, the same shortcut that opens it
+- Settings: "Away from your Mac for" is now "Welcome back after"
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.7/Perch-0.3.7.zip" length="2872254" type="application/octet-stream" sparkle:edSignature="PRhukMLinsPHBTpczo+bCHR2fvtnoG6rhD5k3M1cfsqEZlog+owT4giF7bc0K6Kw53NSgALnXNv8BQP1T9xgBA=="/>
+        </item>
+        <item>
             <title>0.3.6</title>
             <pubDate>Sun, 11 Oct 2026 17:58:51 +0300</pubDate>
             <sparkle:version>362</sparkle:version>
@@ -30,20 +47,6 @@
 - Change, Allow and Check for updates now end on the same edge as the switches
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.5/Perch-0.3.5.zip" length="2862299" type="application/octet-stream" sparkle:edSignature="GjrhiY2Y9GVn21o7wiRI8DfeB23kf+EbwtKj3+OWCmHs8TbByF6hjHCmMn9WPOKohxBaWCcZHjriIsp86UgSDw=="/>
-        </item>
-        <item>
-            <title>0.3.4</title>
-            <pubDate>Sun, 11 Oct 2026 17:26:18 +0300</pubDate>
-            <sparkle:version>343</sparkle:version>
-            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[A clearer Updates row
-
-- In Settings, the answer to Check for updates sits on the right, in green when you have the latest version
-- A downloaded update restarts right away when nothing is open, with no pause in between
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.4/Perch-0.3.4.zip" length="2862264" type="application/octet-stream" sparkle:edSignature="nqhlQ+t8PmoDvNZkKlbINn76na6SeInJN3BHvFL/2rPcT//IfGSUvVpZHTmTPAOZrEEg9kdXnfgT0kxmZzViDA=="/>
         </item>
     </channel>
 </rss>
