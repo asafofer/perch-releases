@@ -3,6 +3,22 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.3.10</title>
+            <pubDate>Mon, 12 Oct 2026 11:13:42 +0300</pubDate>
+            <sparkle:version>454</sparkle:version>
+            <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Lists and code read better in a reply
+
+- Bullet and numbered lists in a reply draw with their markers, nested as written, even with no blank line before them
+- Code in a reply takes your character's colour
+- Paragraphs and lists in a reply have a clearer gap between them
+- Another app's shortcut that shares Perch's modifiers (Command+Option+Shift+L, say) no longer opens Perch
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.10/Perch-0.3.10.zip" length="2911765" type="application/octet-stream" sparkle:edSignature="U+1bi2zZHy3+lwRmnaJO/fLHF+XvTWATeRArlO997lPap8vNht4rA3xUjDFSp1fm6vfd5/E4en33W0/ac2ZUBQ=="/>
+        </item>
+        <item>
             <title>0.3.9</title>
             <pubDate>Sun, 11 Oct 2026 21:00:52 +0300</pubDate>
             <sparkle:version>434</sparkle:version>
@@ -34,23 +50,6 @@
 - The first open no longer freezes for a second while Perch checks whether a launcher has the keyboard
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.8/Perch-0.3.8.zip" length="2877655" type="application/octet-stream" sparkle:edSignature="q92onZN1rlVQIcJFPmoVyf1qMB47rX8p2T7IaI8VpYw9Zc9Td8rgJZTeazzF+XruMyuDrxJ32mRqfWsLvarzCA=="/>
-        </item>
-        <item>
-            <title>0.3.7</title>
-            <pubDate>Sun, 11 Oct 2026 19:07:43 +0300</pubDate>
-            <sparkle:version>380</sparkle:version>
-            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Smoother lists, and questions in full
-
-- A question in the notch is shown in full, and hovering a choice shows its title, its note and whether it is recommended
-- Hovering a session in the list selects it, with a hand cursor, and the highlight follows the pointer smoothly without scrolling by itself
-- The arrow keys no longer jump back to where the mouse rests, in Settings and in the list
-- Command+comma closes Settings, the same shortcut that opens it
-- Settings: "Away from your Mac for" is now "Welcome back after"
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.7/Perch-0.3.7.zip" length="2872254" type="application/octet-stream" sparkle:edSignature="PRhukMLinsPHBTpczo+bCHR2fvtnoG6rhD5k3M1cfsqEZlog+owT4giF7bc0K6Kw53NSgALnXNv8BQP1T9xgBA=="/>
         </item>
     </channel>
 </rss>
