@@ -3,6 +3,23 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.3.12</title>
+            <pubDate>Tue, 13 Oct 2026 11:35:59 +0300</pubDate>
+            <sparkle:version>518</sparkle:version>
+            <sparkle:shortVersionString>0.3.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Start a session from the notch, and copy what the agent said
+
+- Command+Option+N, or New session in the list, starts a session in Claude, Codex or your terminal while you stay where you were
+- What the agent said, on the card or in a reply, can be selected and copied with Command+C
+- A card with words selected stays open, so you can copy at your own pace
+- After an update, a What's new card says what changed
+- Highlights in the list and in Settings follow the pointer and never stay lit after it leaves
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.12/Perch-0.3.12.zip" length="3042183" type="application/octet-stream" sparkle:edSignature="L+xBDphTGjBXx2/qXtBi3Fro8qSpAeEqnY0LNg6H6DEBQsUUnn3m/jj/Qf1S3RHCodUpzWhsrf1g+D72ORelAA=="/>
+        </item>
+        <item>
             <title>0.3.11</title>
             <pubDate>Mon, 12 Oct 2026 14:33:08 +0300</pubDate>
             <sparkle:version>472</sparkle:version>
@@ -32,24 +49,6 @@
 - Another app's shortcut that shares Perch's modifiers (Command+Option+Shift+L, say) no longer opens Perch
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.10/Perch-0.3.10.zip" length="2911765" type="application/octet-stream" sparkle:edSignature="U+1bi2zZHy3+lwRmnaJO/fLHF+XvTWATeRArlO997lPap8vNht4rA3xUjDFSp1fm6vfd5/E4en33W0/ac2ZUBQ=="/>
-        </item>
-        <item>
-            <title>0.3.9</title>
-            <pubDate>Sun, 11 Oct 2026 21:00:52 +0300</pubDate>
-            <sparkle:version>434</sparkle:version>
-            <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Choose which screen Perch opens on
-
-- Show Perch on in Settings: the screen with the mouse, the screen with the active window, or one display by name
-- A chosen display that is unplugged stays in the menu, greyed, and Perch follows the mouse until it is back
-- Hover opens on external displays now lives in the Show Perch on menu
-- On a display without a notch, the card and the live activity close by shrinking to nothing at the top centre
-- A failed update says why and what to do (move Perch to Applications, check your connection), and a Mac that cannot run the newest version is told so
-- Settings has more room between its rows
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.9/Perch-0.3.9.zip" length="2910898" type="application/octet-stream" sparkle:edSignature="fQ6UaSz9J5k1BWSmWGb+2OYBo8OvE6qSoxdH2nhPI7Zwv7AcH3wY6Ojq5dJ+S7tMLtmcXmD2hR6EEAbko2/xCg=="/>
         </item>
     </channel>
 </rss>
