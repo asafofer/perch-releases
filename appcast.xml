@@ -3,6 +3,21 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.3.16</title>
+            <pubDate>Tue, 13 Oct 2026 19:09:51 +0300</pubDate>
+            <sparkle:version>557</sparkle:version>
+            <sparkle:shortVersionString>0.3.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Less nagging about questions you've moved past
+
+- A question you've seen stops waiting on you once you move on to another session
+- Opening Perch leads with what just changed, not a question you already saw
+- A new session's long title shimmers as one line while it starts
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.16/Perch-0.3.16.zip" length="3058476" type="application/octet-stream" sparkle:edSignature="BzjKRZ1EYxQNkoOeCxRAyBzGPv141w54UKHC7uPl63E7+lGDaAd3nRM2yBHboB4cdUZK6XMXMNpJkJoGNtCGAw=="/>
+        </item>
+        <item>
             <title>0.3.15</title>
             <pubDate>Tue, 13 Oct 2026 15:48:33 +0300</pubDate>
             <sparkle:version>537</sparkle:version>
@@ -32,22 +47,6 @@
 - Got it on What's new works on the first click, even when the card opens under a pointer resting on the notch
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.14/Perch-0.3.14.zip" length="3044652" type="application/octet-stream" sparkle:edSignature="VGqdE2rEayk00KMfta1N+IFxoRyM0PrLloZZJyNRUj69r27CQrdX4elFlUgot9dUNJdo+ZB+72VeTACzmlkfDA=="/>
-        </item>
-        <item>
-            <title>0.3.13</title>
-            <pubDate>Tue, 13 Oct 2026 12:27:43 +0300</pubDate>
-            <sparkle:version>522</sparkle:version>
-            <sparkle:shortVersionString>0.3.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Clicks and highlights work again
-
-- Rows in the list open their card when clicked, and the lit row follows the pointer instead of staying on one it left
-- The list opens on its top row, even with the pointer resting over another one
-- Selecting what the agent said no longer flickers, and buttons on a card answer the first click
-- Got it after What's new goes on to the list
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.13/Perch-0.3.13.zip" length="3042918" type="application/octet-stream" sparkle:edSignature="VUEd0ATundtm1/h17iC0ZTYHSuID3qYkt4x91ejYXremW6/vPJCMTWyPUuLUYbGLRCHsYIA07Ngo88fuyvcTAg=="/>
         </item>
     </channel>
 </rss>
