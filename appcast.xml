@@ -3,6 +3,22 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.3.13</title>
+            <pubDate>Tue, 13 Oct 2026 12:27:43 +0300</pubDate>
+            <sparkle:version>522</sparkle:version>
+            <sparkle:shortVersionString>0.3.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Clicks and highlights work again
+
+- Rows in the list open their card when clicked, and the lit row follows the pointer instead of staying on one it left
+- The list opens on its top row, even with the pointer resting over another one
+- Selecting what the agent said no longer flickers, and buttons on a card answer the first click
+- Got it after What's new goes on to the list
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.13/Perch-0.3.13.zip" length="3042918" type="application/octet-stream" sparkle:edSignature="VUEd0ATundtm1/h17iC0ZTYHSuID3qYkt4x91ejYXremW6/vPJCMTWyPUuLUYbGLRCHsYIA07Ngo88fuyvcTAg=="/>
+        </item>
+        <item>
             <title>0.3.12</title>
             <pubDate>Tue, 13 Oct 2026 11:35:59 +0300</pubDate>
             <sparkle:version>518</sparkle:version>
@@ -33,22 +49,6 @@
 - Pick up in Warp lands on the session's tab
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.11/Perch-0.3.11.zip" length="2951078" type="application/octet-stream" sparkle:edSignature="qOGANPKDmmQigt58Ym1bpynI5Y1z+VvulEJa/F9FZLUfwcsxTEQNZrZIJu2OMT9LyyvmdXyrhWQOCfARVjgTBw=="/>
-        </item>
-        <item>
-            <title>0.3.10</title>
-            <pubDate>Mon, 12 Oct 2026 11:13:42 +0300</pubDate>
-            <sparkle:version>454</sparkle:version>
-            <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Lists and code read better in a reply
-
-- Bullet and numbered lists in a reply draw with their markers, nested as written, even with no blank line before them
-- Code in a reply takes your character's colour
-- Paragraphs and lists in a reply have a clearer gap between them
-- Another app's shortcut that shares Perch's modifiers (Command+Option+Shift+L, say) no longer opens Perch
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.10/Perch-0.3.10.zip" length="2911765" type="application/octet-stream" sparkle:edSignature="U+1bi2zZHy3+lwRmnaJO/fLHF+XvTWATeRArlO997lPap8vNht4rA3xUjDFSp1fm6vfd5/E4en33W0/ac2ZUBQ=="/>
         </item>
     </channel>
 </rss>
