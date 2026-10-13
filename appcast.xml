@@ -3,6 +3,19 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.3.14</title>
+            <pubDate>Tue, 13 Oct 2026 13:27:42 +0300</pubDate>
+            <sparkle:version>525</sparkle:version>
+            <sparkle:shortVersionString>0.3.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Got it answers the first click
+
+- Got it on What's new works on the first click, even when the card opens under a pointer resting on the notch
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.14/Perch-0.3.14.zip" length="3044652" type="application/octet-stream" sparkle:edSignature="VGqdE2rEayk00KMfta1N+IFxoRyM0PrLloZZJyNRUj69r27CQrdX4elFlUgot9dUNJdo+ZB+72VeTACzmlkfDA=="/>
+        </item>
+        <item>
             <title>0.3.13</title>
             <pubDate>Tue, 13 Oct 2026 12:27:43 +0300</pubDate>
             <sparkle:version>522</sparkle:version>
@@ -34,21 +47,6 @@
 - Highlights in the list and in Settings follow the pointer and never stay lit after it leaves
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.12/Perch-0.3.12.zip" length="3042183" type="application/octet-stream" sparkle:edSignature="L+xBDphTGjBXx2/qXtBi3Fro8qSpAeEqnY0LNg6H6DEBQsUUnn3m/jj/Qf1S3RHCodUpzWhsrf1g+D72ORelAA=="/>
-        </item>
-        <item>
-            <title>0.3.11</title>
-            <pubDate>Mon, 12 Oct 2026 14:33:08 +0300</pubDate>
-            <sparkle:version>472</sparkle:version>
-            <sparkle:shortVersionString>0.3.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Answers say Sent, and Perch works with Conductor and Warp
-
-- An answer from the notch or a card now says Sent with a paper plane, or Didn't send if it reached nothing
-- Conductor workspaces show up in the list and Pick up opens them in Conductor
-- Pick up in Warp lands on the session's tab
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.11/Perch-0.3.11.zip" length="2951078" type="application/octet-stream" sparkle:edSignature="qOGANPKDmmQigt58Ym1bpynI5Y1z+VvulEJa/F9FZLUfwcsxTEQNZrZIJu2OMT9LyyvmdXyrhWQOCfARVjgTBw=="/>
         </item>
     </channel>
 </rss>
