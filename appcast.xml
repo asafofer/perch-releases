@@ -3,6 +3,24 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Thu, 15 Oct 2026 08:43:15 +0100</pubDate>
+            <sparkle:version>618</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Perch is now signed and notarized by Apple
+
+- macOS asks for Accessibility once more after this update. Allow is right here, and Command+Option works again the moment it is on
+- Downloads open without a security warning, and updates install the same way
+- If Accessibility is ever turned off, the notch says so once, with Allow
+- New session takes attachments, and the agent and folder you picked hold still while other sessions work
+- Selecting text in a reply or a new session's prompt shows a highlight, Command+A included
+- A session at work no longer brings back a question you already left behind
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.0/Perch-0.4.0.zip" length="3124913" type="application/octet-stream" sparkle:edSignature="8Fd95RNqF0BryHDQljx5EhJ0Rb6WsuYkMg8W706uq9TCnX4Aoanr3t+kGC8BTaRysNBIT1Co715T91XsgkMxAA=="/>
+        </item>
+        <item>
             <title>0.3.16</title>
             <pubDate>Tue, 13 Oct 2026 19:09:51 +0300</pubDate>
             <sparkle:version>557</sparkle:version>
@@ -34,19 +52,6 @@
 - The gear and close buttons light up the moment you point at them
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.15/Perch-0.3.15.zip" length="3050558" type="application/octet-stream" sparkle:edSignature="JkEQ7phbX0+OnhQC/fNgEAtaIxmDqeyAZufsgFOweccQmck6IbtFRn2vPNXlYByJG7RgHqGvlyww/KiiRJNrBg=="/>
-        </item>
-        <item>
-            <title>0.3.14</title>
-            <pubDate>Tue, 13 Oct 2026 13:27:42 +0300</pubDate>
-            <sparkle:version>525</sparkle:version>
-            <sparkle:shortVersionString>0.3.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Got it answers the first click
-
-- Got it on What's new works on the first click, even when the card opens under a pointer resting on the notch
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.14/Perch-0.3.14.zip" length="3044652" type="application/octet-stream" sparkle:edSignature="VGqdE2rEayk00KMfta1N+IFxoRyM0PrLloZZJyNRUj69r27CQrdX4elFlUgot9dUNJdo+ZB+72VeTACzmlkfDA=="/>
         </item>
     </channel>
 </rss>
