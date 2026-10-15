@@ -3,6 +3,19 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Thu, 15 Oct 2026 10:08:12 +0100</pubDate>
+            <sparkle:version>625</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Allowing Accessibility finds Perch in the list
+
+- Allow lets macOS's own prompt open System Settings, with Perch already there: choose Open System Settings in it, then switch Perch on
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.1/Perch-0.4.1.zip" length="3125386" type="application/octet-stream" sparkle:edSignature="Zg9clhhV0/lSQVvNbZJLzOe+xxeTlByvnHZgIQFIQqD8soUzSQ4uRDZFwDDTZXD2eyJYZQzCP4tL29j6vpcGCg=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Thu, 15 Oct 2026 08:43:15 +0100</pubDate>
             <sparkle:version>618</sparkle:version>
@@ -34,24 +47,6 @@
 - A new session's long title shimmers as one line while it starts
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.16/Perch-0.3.16.zip" length="3058476" type="application/octet-stream" sparkle:edSignature="BzjKRZ1EYxQNkoOeCxRAyBzGPv141w54UKHC7uPl63E7+lGDaAd3nRM2yBHboB4cdUZK6XMXMNpJkJoGNtCGAw=="/>
-        </item>
-        <item>
-            <title>0.3.15</title>
-            <pubDate>Tue, 13 Oct 2026 15:48:33 +0300</pubDate>
-            <sparkle:version>537</sparkle:version>
-            <sparkle:shortVersionString>0.3.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Things that snapped now move
-
-- A card's status changes in place: the words swap and the spinner shrinks away
-- The list's highlight slides from row to row, and rows glide when the list sorts itself
-- Moving to the next session's card cross-fades only what changed
-- Questions on a card: each check draws itself in, and only the number in "Question 1 of 3" changes
-- Settings menus grow out of their button, and switches settle with a small bounce
-- The gear and close buttons light up the moment you point at them
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.15/Perch-0.3.15.zip" length="3050558" type="application/octet-stream" sparkle:edSignature="JkEQ7phbX0+OnhQC/fNgEAtaIxmDqeyAZufsgFOweccQmck6IbtFRn2vPNXlYByJG7RgHqGvlyww/KiiRJNrBg=="/>
         </item>
     </channel>
 </rss>
