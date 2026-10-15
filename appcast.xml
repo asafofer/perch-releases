@@ -3,6 +3,24 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Thu, 15 Oct 2026 20:14:55 +0100</pubDate>
+            <sparkle:version>644</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Pick up goes straight to your agent in tmux and Warp
+
+- An agent in a tmux pane opens in your tmux client, and a reply goes straight into its pane
+- Claude Code installed with npm is found running, so Pick up in Warp goes to its tab instead of starting a second copy
+- A session waiting on helpers or a command it left in the background stays at work until they report back
+- A helper's own steps no longer clear the question the session is asking you
+- A checkout with thousands of changes no longer leaves the list on "Looking for your sessions"
+- A quick hello in a terminal stays in the list while its agent is open
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.2/Perch-0.4.2.zip" length="3159153" type="application/octet-stream" sparkle:edSignature="6nYQrp/gWkTtvHcVL/X9dTAcon6WsBOQ5eTB8nS9xuJy7Bgu86QevZ5hPXcL/I3U/NqTZAuHXzY8x1ULpe3XBQ=="/>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Thu, 15 Oct 2026 10:08:12 +0100</pubDate>
             <sparkle:version>625</sparkle:version>
@@ -32,21 +50,6 @@
 - A session at work no longer brings back a question you already left behind
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.0/Perch-0.4.0.zip" length="3124913" type="application/octet-stream" sparkle:edSignature="8Fd95RNqF0BryHDQljx5EhJ0Rb6WsuYkMg8W706uq9TCnX4Aoanr3t+kGC8BTaRysNBIT1Co715T91XsgkMxAA=="/>
-        </item>
-        <item>
-            <title>0.3.16</title>
-            <pubDate>Tue, 13 Oct 2026 19:09:51 +0300</pubDate>
-            <sparkle:version>557</sparkle:version>
-            <sparkle:shortVersionString>0.3.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Less nagging about questions you've moved past
-
-- A question you've seen stops waiting on you once you move on to another session
-- Opening Perch leads with what just changed, not a question you already saw
-- A new session's long title shimmers as one line while it starts
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.3.16/Perch-0.3.16.zip" length="3058476" type="application/octet-stream" sparkle:edSignature="BzjKRZ1EYxQNkoOeCxRAyBzGPv141w54UKHC7uPl63E7+lGDaAd3nRM2yBHboB4cdUZK6XMXMNpJkJoGNtCGAw=="/>
         </item>
     </channel>
 </rss>
