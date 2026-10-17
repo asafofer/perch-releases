@@ -3,6 +3,23 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.4.3</title>
+            <pubDate>Sat, 17 Oct 2026 18:08:39 +0100</pubDate>
+            <sparkle:version>691</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Answer a question in your own words
+
+- When an agent asks you to choose, Other lets you type your own answer right on the card
+- Perch looks for updates every hour and says so with a quick peek in the notch; nothing installs until you press Update
+- A question's choices light one at a time under the pointer, and each choice's note shows in full
+- On the notch, Command+Option+O opens the session in its app, and clicking the question opens it on the card
+- An OpenCode answer with a comma in it stays one answer
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.3/Perch-0.4.3.zip" length="3167133" type="application/octet-stream" sparkle:edSignature="ADnn8TK8czjlR42/1uGPv/mrER9Bk8bFYCOwaAehOU2hzPea5iRjmlPsmM+sXarmGzRo0Li5pA1A4o6NYrP4Cg=="/>
+        </item>
+        <item>
             <title>0.4.2</title>
             <pubDate>Thu, 15 Oct 2026 20:14:55 +0100</pubDate>
             <sparkle:version>644</sparkle:version>
@@ -32,24 +49,6 @@
 - Allow lets macOS's own prompt open System Settings, with Perch already there: choose Open System Settings in it, then switch Perch on
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.1/Perch-0.4.1.zip" length="3125386" type="application/octet-stream" sparkle:edSignature="Zg9clhhV0/lSQVvNbZJLzOe+xxeTlByvnHZgIQFIQqD8soUzSQ4uRDZFwDDTZXD2eyJYZQzCP4tL29j6vpcGCg=="/>
-        </item>
-        <item>
-            <title>0.4.0</title>
-            <pubDate>Thu, 15 Oct 2026 08:43:15 +0100</pubDate>
-            <sparkle:version>618</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Perch is now signed and notarized by Apple
-
-- macOS asks for Accessibility once more after this update. Allow is right here, and Command+Option works again the moment it is on
-- Downloads open without a security warning, and updates install the same way
-- If Accessibility is ever turned off, the notch says so once, with Allow
-- New session takes attachments, and the agent and folder you picked hold still while other sessions work
-- Selecting text in a reply or a new session's prompt shows a highlight, Command+A included
-- A session at work no longer brings back a question you already left behind
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.0/Perch-0.4.0.zip" length="3124913" type="application/octet-stream" sparkle:edSignature="8Fd95RNqF0BryHDQljx5EhJ0Rb6WsuYkMg8W706uq9TCnX4Aoanr3t+kGC8BTaRysNBIT1Co715T91XsgkMxAA=="/>
         </item>
     </channel>
 </rss>
