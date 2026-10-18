@@ -3,6 +3,23 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.4.4</title>
+            <pubDate>Sun, 18 Oct 2026 16:30:49 +0100</pubDate>
+            <sparkle:version>712</sparkle:version>
+            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[See your reply land
+
+- A reply sent from the notch ends on a Sent line, so you know it went
+- The shortcut that opens Perch opens the question the notch is showing
+- New sessions started in the Claude app send again, also right after you trust the folder
+- Cancel Claude's trust question and the notch says Didn't start at once, your words kept
+- What's new keeps its place as you scroll, and scrolling lists no longer jitter
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.4/Perch-0.4.4.zip" length="3169721" type="application/octet-stream" sparkle:edSignature="nXEl+uUcpLEWf6mlJh23qRGzUGmxsPBPTz83wpOk5z3nPTCNZDC57xUkSKcaAETd1POdRFZ5SgTW2yETB6gdDg=="/>
+        </item>
+        <item>
             <title>0.4.3</title>
             <pubDate>Sat, 17 Oct 2026 18:08:39 +0100</pubDate>
             <sparkle:version>691</sparkle:version>
@@ -36,19 +53,6 @@
 - A quick hello in a terminal stays in the list while its agent is open
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.2/Perch-0.4.2.zip" length="3159153" type="application/octet-stream" sparkle:edSignature="6nYQrp/gWkTtvHcVL/X9dTAcon6WsBOQ5eTB8nS9xuJy7Bgu86QevZ5hPXcL/I3U/NqTZAuHXzY8x1ULpe3XBQ=="/>
-        </item>
-        <item>
-            <title>0.4.1</title>
-            <pubDate>Thu, 15 Oct 2026 10:08:12 +0100</pubDate>
-            <sparkle:version>625</sparkle:version>
-            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Allowing Accessibility finds Perch in the list
-
-- Allow lets macOS's own prompt open System Settings, with Perch already there: choose Open System Settings in it, then switch Perch on
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.1/Perch-0.4.1.zip" length="3125386" type="application/octet-stream" sparkle:edSignature="Zg9clhhV0/lSQVvNbZJLzOe+xxeTlByvnHZgIQFIQqD8soUzSQ4uRDZFwDDTZXD2eyJYZQzCP4tL29j6vpcGCg=="/>
         </item>
     </channel>
 </rss>
