@@ -3,6 +3,23 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.4.5</title>
+            <pubDate>Mon, 19 Oct 2026 13:41:23 +0100</pubDate>
+            <sparkle:version>737</sparkle:version>
+            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Send feedback from the notch
+
+- Settings has a Send feedback page: your words, files, an optional email, and Return sends
+- Drop, paste or attach files (Command+O), pictures shrink to fit, and Email it instead is there if it can't send
+- Settings is a short list of categories, and each row says what it is set to
+- The Version row shows your update right on the list
+- The Claude app's side chats no longer show up in the list
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.5/Perch-0.4.5.zip" length="3198688" type="application/octet-stream" sparkle:edSignature="Ozv80i9+I8X4i5P/mOESoRGfS05Dam+HzP+q/Uwzr3EmZSMn8arQrAAIblqP6d+dekHRHs2ovKKFdkSPjU2zBQ=="/>
+        </item>
+        <item>
             <title>0.4.4</title>
             <pubDate>Sun, 18 Oct 2026 16:30:49 +0100</pubDate>
             <sparkle:version>712</sparkle:version>
@@ -35,24 +52,6 @@
 - An OpenCode answer with a comma in it stays one answer
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.3/Perch-0.4.3.zip" length="3167133" type="application/octet-stream" sparkle:edSignature="ADnn8TK8czjlR42/1uGPv/mrER9Bk8bFYCOwaAehOU2hzPea5iRjmlPsmM+sXarmGzRo0Li5pA1A4o6NYrP4Cg=="/>
-        </item>
-        <item>
-            <title>0.4.2</title>
-            <pubDate>Thu, 15 Oct 2026 20:14:55 +0100</pubDate>
-            <sparkle:version>644</sparkle:version>
-            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Pick up goes straight to your agent in tmux and Warp
-
-- An agent in a tmux pane opens in your tmux client, and a reply goes straight into its pane
-- Claude Code installed with npm is found running, so Pick up in Warp goes to its tab instead of starting a second copy
-- A session waiting on helpers or a command it left in the background stays at work until they report back
-- A helper's own steps no longer clear the question the session is asking you
-- A checkout with thousands of changes no longer leaves the list on "Looking for your sessions"
-- A quick hello in a terminal stays in the list while its agent is open
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.2/Perch-0.4.2.zip" length="3159153" type="application/octet-stream" sparkle:edSignature="6nYQrp/gWkTtvHcVL/X9dTAcon6WsBOQ5eTB8nS9xuJy7Bgu86QevZ5hPXcL/I3U/NqTZAuHXzY8x1ULpe3XBQ=="/>
         </item>
     </channel>
 </rss>
