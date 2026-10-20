@@ -3,6 +3,20 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.4.6</title>
+            <pubDate>Tue, 20 Oct 2026 14:45:43 +0100</pubDate>
+            <sparkle:version>752</sparkle:version>
+            <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Perch runs on macOS 15
+
+- Perch now runs on macOS 15 (Sequoia) and later, not only macOS 26
+- Everything works the same on both: the notch, the list, replies, hooks and updates
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.6/Perch-0.4.6.zip" length="3199020" type="application/octet-stream" sparkle:edSignature="2LwPNKTgpmwJnQD+CIADTmTef+dqWHjHgpBdj2NfU+1eQm2jeF9aI3JZ5IPdnCiDWXLr0Mw5gyeDOOR2xEwqBA=="/>
+        </item>
+        <item>
             <title>0.4.5</title>
             <pubDate>Mon, 19 Oct 2026 13:41:23 +0100</pubDate>
             <sparkle:version>737</sparkle:version>
