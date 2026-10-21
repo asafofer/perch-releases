@@ -3,6 +3,23 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.4.7</title>
+            <pubDate>Wed, 21 Oct 2026 14:16:41 +0100</pubDate>
+            <sparkle:version>776</sparkle:version>
+            <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[New sessions start in your project
+
+- Starting a Claude app session from the notch puts it in the project you chose, and the notch says Started
+- An OpenCode request stays up when OpenCode runs another tool beside it
+- A terminal session killed while it waited for your OK no longer keeps the notch orange
+- The live activity shows the command itself, like npm run build
+- Working sessions keep their places in the list
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.7/Perch-0.4.7.zip" length="3210088" type="application/octet-stream" sparkle:edSignature="MoX2qDZebNTxaJCXP87vZtNjm5UN3mp9hm0TkannTd7UWsjeuq2w8w4onhmfOoQqroiK8n0T14fiZ44wMmxxCw=="/>
+        </item>
+        <item>
             <title>0.4.6</title>
             <pubDate>Tue, 20 Oct 2026 14:45:43 +0100</pubDate>
             <sparkle:version>752</sparkle:version>
