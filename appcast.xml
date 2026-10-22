@@ -3,6 +3,24 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.4.8</title>
+            <pubDate>Thu, 22 Oct 2026 14:45:42 +0100</pubDate>
+            <sparkle:version>817</sparkle:version>
+            <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Claude tasks and chats in Perch
+
+- Your Claude app tasks show up beside your coding sessions: working, waiting for your OK, or finished, with what Claude found
+- Turn on Claude chats in Settings to see Claude's last reply, and answer from the notch
+- Choosing your apps uses simple checks, with Claude as one tile for Code, Tasks and Chats
+- Press R right after sending and the reply opens on your message, with the step the agent is on below it
+- A reply to a terminal session goes only into its own tab. When Perch isn't sure which tab, it copies the reply instead
+- Warp sessions open on their own tab at once, with no tab flicking (thanks @stolery)
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.8/Perch-0.4.8.zip" length="3293825" type="application/octet-stream" sparkle:edSignature="Evv0569GvyAayiYP8GOxUa3mFZX0PkEwLVlBQrW4wwzfdZMhGDRX+A5CmNY53K3CM65ifYitJ9DF1Jx3HQBvDw=="/>
+        </item>
+        <item>
             <title>0.4.7</title>
             <pubDate>Wed, 21 Oct 2026 14:16:41 +0100</pubDate>
             <sparkle:version>776</sparkle:version>
