@@ -3,6 +3,22 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Mon, 26 Oct 2026 17:22:16 +0000</pubDate>
+            <sparkle:version>895</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Pull requests, Cursor and agterm
+
+- Sessions show their pull requests: green open, purple merged, red closed, orange when one needs you. Hover for details, click to open
+- Turn on Checks and a pull request with failing checks, asked-for changes or a conflict puts its session under Needs you
+- Cursor chats show up beside your other sessions (beta): Pick up the exact chat, reply, and answer Allow or Deny from the notch
+- Works with agterm like cmux: Pick up goes to the exact session and pane, and replies are typed into it (thanks @jeniasaigak)
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.5.0/Perch-0.5.0.zip" length="3420360" type="application/octet-stream" sparkle:edSignature="AD40R7GKTzV77QB7tBHbONGjqJTUtAEsTl/uRTMMh2MYtd5KcJJHv2npoYY9/+zfS2Lzkd2le9FoZhSPi0EABQ=="/>
+        </item>
+        <item>
             <title>0.4.8</title>
             <pubDate>Thu, 22 Oct 2026 14:45:42 +0100</pubDate>
             <sparkle:version>817</sparkle:version>
@@ -36,20 +52,6 @@
 - Working sessions keep their places in the list
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.7/Perch-0.4.7.zip" length="3210088" type="application/octet-stream" sparkle:edSignature="MoX2qDZebNTxaJCXP87vZtNjm5UN3mp9hm0TkannTd7UWsjeuq2w8w4onhmfOoQqroiK8n0T14fiZ44wMmxxCw=="/>
-        </item>
-        <item>
-            <title>0.4.6</title>
-            <pubDate>Tue, 20 Oct 2026 14:45:43 +0100</pubDate>
-            <sparkle:version>752</sparkle:version>
-            <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Perch runs on macOS 15
-
-- Perch now runs on macOS 15 (Sequoia) and later, not only macOS 26
-- Everything works the same on both: the notch, the list, replies, hooks and updates
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.6/Perch-0.4.6.zip" length="3199020" type="application/octet-stream" sparkle:edSignature="2LwPNKTgpmwJnQD+CIADTmTef+dqWHjHgpBdj2NfU+1eQm2jeF9aI3JZ5IPdnCiDWXLr0Mw5gyeDOOR2xEwqBA=="/>
         </item>
         <item>
             <title>0.4.5</title>
