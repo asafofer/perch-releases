@@ -3,6 +3,24 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.5.1</title>
+            <pubDate>Fri, 30 Oct 2026 16:04:56 +0200</pubDate>
+            <sparkle:version>954</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Cloud sessions, OpenCode 2 and a filter for the list
+
+- Claude Code and Cursor cloud sessions are listed beside your local ones
+- Type to filter the list: move through what you typed with the arrow keys, select it, copy it
+- OpenCode 2 works: its sessions are listed, and Perch answers its permissions and questions (thanks @yoavmmn)
+- Preview: Space shows the agent's whole last message on the card (thanks @stolery)
+- Replying to Codex in a terminal sends, instead of sitting in its field (thanks @stolery)
+- Opening a reply no longer brings Perch forward (thanks @namearth5005)
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.5.1/Perch-0.5.1.zip" length="3464344" type="application/octet-stream" sparkle:edSignature="L0nPIScLQQwkBgpJJLqs2xhgJMu1PU5gwokx3Bwvoa9gw60LH7Ifm37A225IZBUumr96SGUdILwCEmKbAemsDw=="/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Mon, 26 Oct 2026 17:22:16 +0000</pubDate>
             <sparkle:version>895</sparkle:version>
@@ -35,23 +53,6 @@
 - Warp sessions open on their own tab at once, with no tab flicking (thanks @stolery)
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.8/Perch-0.4.8.zip" length="3293825" type="application/octet-stream" sparkle:edSignature="Evv0569GvyAayiYP8GOxUa3mFZX0PkEwLVlBQrW4wwzfdZMhGDRX+A5CmNY53K3CM65ifYitJ9DF1Jx3HQBvDw=="/>
-        </item>
-        <item>
-            <title>0.4.7</title>
-            <pubDate>Wed, 21 Oct 2026 14:16:41 +0100</pubDate>
-            <sparkle:version>776</sparkle:version>
-            <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[New sessions start in your project
-
-- Starting a Claude app session from the notch puts it in the project you chose, and the notch says Started
-- An OpenCode request stays up when OpenCode runs another tool beside it
-- A terminal session killed while it waited for your OK no longer keeps the notch orange
-- The live activity shows the command itself, like npm run build
-- Working sessions keep their places in the list
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.7/Perch-0.4.7.zip" length="3210088" type="application/octet-stream" sparkle:edSignature="MoX2qDZebNTxaJCXP87vZtNjm5UN3mp9hm0TkannTd7UWsjeuq2w8w4onhmfOoQqroiK8n0T14fiZ44wMmxxCw=="/>
         </item>
         <item>
             <title>0.4.5</title>
