@@ -3,6 +3,25 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.5.2</title>
+            <pubDate>Sun, 01 Nov 2026 16:01:17 +0200</pubDate>
+            <sparkle:version>1008</sparkle:version>
+            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Grok Bot, Muse, Oh My Pi and Dots
+
+- Grok Bot: each bot is a row wearing its own avatar, and you answer its questions and reply from the notch
+- Muse Code in any terminal: its sessions are listed with live status, and you can reply and pick up from the notch
+- Oh My Pi works like pi, and Perch answers its questions from the notch
+- Dots (ChatGPT Pro, beta): each dot is a row, and Pick up opens it
+- Settings and setup group your agents by kind, and you can switch off a terminal like tmux to hide its sessions
+- Several Oh My Pi or Muse sessions in one folder each go back to the right pane
+- Click the character for a different reaction each time
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.5.2/Perch-0.5.2.zip" length="3554764" type="application/octet-stream" sparkle:edSignature="w8eS5EE0+7aByqpItVXIeeQF70Crkoc5sW1TPViIHbYjWMTcmBXuZBVa0S0zIP9oJ/vOYAohZcFw4zljo6ZpCA=="/>
+        </item>
+        <item>
             <title>0.5.1</title>
             <pubDate>Fri, 30 Oct 2026 16:04:56 +0200</pubDate>
             <sparkle:version>954</sparkle:version>
@@ -35,24 +54,6 @@
 - Works with agterm like cmux: Pick up goes to the exact session and pane, and replies are typed into it (thanks @jeniasaigak)
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.5.0/Perch-0.5.0.zip" length="3420360" type="application/octet-stream" sparkle:edSignature="AD40R7GKTzV77QB7tBHbONGjqJTUtAEsTl/uRTMMh2MYtd5KcJJHv2npoYY9/+zfS2Lzkd2le9FoZhSPi0EABQ=="/>
-        </item>
-        <item>
-            <title>0.4.8</title>
-            <pubDate>Thu, 22 Oct 2026 14:45:42 +0100</pubDate>
-            <sparkle:version>817</sparkle:version>
-            <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Claude tasks and chats in Perch
-
-- Your Claude app tasks show up beside your coding sessions: working, waiting for your OK, or finished, with what Claude found
-- Turn on Claude chats in Settings to see Claude's last reply, and answer from the notch
-- Choosing your apps uses simple checks, with Claude as one tile for Code, Tasks and Chats
-- Press R right after sending and the reply opens on your message, with the step the agent is on below it
-- A reply to a terminal session goes only into its own tab. When Perch isn't sure which tab, it copies the reply instead
-- Warp sessions open on their own tab at once, with no tab flicking (thanks @stolery)
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.4.8/Perch-0.4.8.zip" length="3293825" type="application/octet-stream" sparkle:edSignature="Evv0569GvyAayiYP8GOxUa3mFZX0PkEwLVlBQrW4wwzfdZMhGDRX+A5CmNY53K3CM65ifYitJ9DF1Jx3HQBvDw=="/>
         </item>
         <item>
             <title>0.4.5</title>
