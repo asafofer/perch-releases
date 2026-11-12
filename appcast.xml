@@ -3,6 +3,20 @@
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.5.5</title>
+            <pubDate>Thu, 12 Nov 2026 16:38:22 +0200</pubDate>
+            <sparkle:version>1119</sparkle:version>
+            <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Archiving a Claude app session from the notch works again
+
+- Rename, archive or delete on a Claude app session finds Claude's menu every time, not only when Claude's focus lands on it
+- After a rename, archive or delete, the list and card keep the keyboard
+]]></description>
+            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.5.5/Perch-0.5.5.zip" length="3640214" type="application/octet-stream" sparkle:edSignature="Xt2/83BWJuyqHasAZ1WFgRzcfV3kKzGVmA/tDlwf0K8NSLkxQxp1QZBm+k2/qhWdoyGg+ZB/GUM9JFD6fds1Bg=="/>
+        </item>
+        <item>
             <title>0.5.4</title>
             <pubDate>Thu, 12 Nov 2026 16:00:56 +0200</pubDate>
             <sparkle:version>1115</sparkle:version>
@@ -37,25 +51,6 @@
 - Finer, rounder icons throughout
 ]]></description>
             <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.5.3/Perch-0.5.3.zip" length="3594139" type="application/octet-stream" sparkle:edSignature="kTOiMmze9Eb7AIdmrjWkxXng5B7bXDqph3rDOBfCGMM0XT3A96lsImUWc2Na6I7i4B04AhUS3y3i3tQ8VwO1AA=="/>
-        </item>
-        <item>
-            <title>0.5.2</title>
-            <pubDate>Sun, 01 Nov 2026 16:01:17 +0200</pubDate>
-            <sparkle:version>1008</sparkle:version>
-            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[Grok Bot, Muse, Oh My Pi and Dots
-
-- Grok Bot: each bot is a row wearing its own avatar, and you answer its questions and reply from the notch
-- Muse Code in any terminal: its sessions are listed with live status, and you can reply and pick up from the notch
-- Oh My Pi works like pi, and Perch answers its questions from the notch
-- Dots (ChatGPT Pro, beta): each dot is a row, and Pick up opens it
-- Settings and setup group your agents by kind, and you can switch off a terminal like tmux to hide its sessions
-- Several Oh My Pi or Muse sessions in one folder each go back to the right pane
-- Click the character for a different reaction each time
-]]></description>
-            <enclosure url="https://github.com/asafofer/perch-releases/releases/download/v0.5.2/Perch-0.5.2.zip" length="3554764" type="application/octet-stream" sparkle:edSignature="w8eS5EE0+7aByqpItVXIeeQF70Crkoc5sW1TPViIHbYjWMTcmBXuZBVa0S0zIP9oJ/vOYAohZcFw4zljo6ZpCA=="/>
         </item>
         <item>
             <title>0.4.5</title>
